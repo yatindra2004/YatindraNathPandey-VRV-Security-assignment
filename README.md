@@ -183,7 +183,7 @@ Node.js
 npm or yarn
 Installation
 Clone the repository:
-git clone 
+git clone https://github.com/yatindra2004/YatindraNathPandey-VRV-Security-assignment
 cd VRV-security-assignment
 Install dependencies:
 npm install
